@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-cache-management-utilities",
+  "version": "1.0.0",
+  "description": "One Dionys (Cache Management Utilities) - Functions for managing caches in web applications, including cache storage, cache deletion, and cache version control.",
+  "main": "src/cacheManager.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionysz/onedionys-cache-management-utilities.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "cache-management-utilities"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionysz/onedionys-cache-management-utilities/issues"
+  },
+  "homepage": "https://github.com/onedionysz/onedionys-cache-management-utilities#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
